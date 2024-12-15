@@ -13,3 +13,9 @@ This React application allows users to look up postal office details based on a 
 - React Icons: For icons, including the search icon.
 - Fetch API: For making requests to the PostalPincode API.
 - CSS: For styling the app and making it user-friendly
+
+## How to Use
+Enter a pin code in the input field.
+Click the "Lookup" button to fetch postal office details for the given pin code.
+Once the data is fetched, you can filter the results by typing in the "Filter" input field.
+The postal office details will be displayed as cards, showing the name, type, delivery status, district, and state.
